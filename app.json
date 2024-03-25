@@ -99,6 +99,12 @@
     "description":"1 always online,2 Auto typing always,3 Recording audio.... always type choice number 📌",
     "value":"",
     "required": false
+ },	  
+   "ALWAYS_ONLINE":{
+    "description":"always online,(this is optionnal)"
+    "value":"",
+    "required": false
+
   }  
   },
  
