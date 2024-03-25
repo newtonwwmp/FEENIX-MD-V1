@@ -1,5 +1,5 @@
-{
-  "name":"FEENIX-MD-V1",
+{{
+  "name":"FEENIX-V1-MD",
   "description":"An easy and simple WhatsApp bot developed by Dark sasiya",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/37d76d2eaa27a53eef207.jpg",
@@ -17,7 +17,7 @@
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
-      "required":true
+      "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
@@ -99,12 +99,6 @@
     "description":"1 always online,2 Auto typing always,3 Recording audio.... always type choice number 📌",
     "value":"",
     "required": false
- },	  
-   "ALWAYS_ONLINE":{
-    "description":"always online,(this is optionnal)"
-    "value":"",
-    "required": false
-
   }  
   },
  
