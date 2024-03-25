@@ -13,7 +13,6 @@ module.exports = { session: process.env.SESSION_ID || 'zokk',
     NUMERO_OWNER : process.env.OWNER_NUMBER || "",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
-    BOT_OFFLINE : process.env.BOT_OFFLINE || "true"
     BOT : process.env.BOT_NAME || 'FEENIX-MD-V1',
     OPENAI_API_KEY : process.env.OPENAI_API_KEY || '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',
     URL : process.env.BOT_MENU_LINKS || 'https://static.animecorner.me/2023/08/op2.jpg',
