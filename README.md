@@ -17,11 +17,6 @@
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
 </p>
 
-<details close>
-
-    
-
-
 
  <details close>
 <summary> DEPLOYMENT METHODS </summary>
