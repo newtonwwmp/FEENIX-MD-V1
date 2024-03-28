@@ -21,7 +21,7 @@
 
     
 
-**`DEPLOYMENT METHODS`**
+
 
  <details close>
 <summary> DEPLOYMENT METHODS </summary>
