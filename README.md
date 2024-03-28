@@ -17,6 +17,48 @@
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
 </p>
 
+<details close>
+<summary>Click to choose your favourite platform to Deploy</summary>
+ 
+<br><br>   
+   
+<h4 align="center"> Deploy on Repl.it
+</h4>
+
+<p align="center" >
+    <a href="https://repl.it/github/feenixmd/FEENIX-MD">
+    <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
+    </a>
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
+
+
+
+<br>
+ 
+<h4 align="center"> Deploy on CodesSpace
+</h4>
+
+</p>
+
+<p align="center" >
+    <a href="https://github.com/codespaces/new">
+    <img src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" width="170px" alt="Deploy on CodesSpaces" >
+    </a>
+
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p
+
 **`DEPLOYMENT METHODS`**
 
  <details close>
