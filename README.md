@@ -36,10 +36,6 @@
     __________________________
     <br>
 </p>
-
-
-
-<br>
  
 <h4 align="center"> Deploy on CodesSpace
 </h4>
@@ -56,8 +52,7 @@
 <p align="center" >
     <br>
     __________________________
-    <br>
-</p
+    
 
 **`DEPLOYMENT METHODS`**
 
