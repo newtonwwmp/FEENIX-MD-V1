@@ -74,7 +74,7 @@ else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
       await   repondre("⚔ 𝐅𝐄𝐄𝐍𝐈𝐗 𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝗢𝗪𝗡𝗘𝗥 𝗦𝗔𝗦𝗜𝗬𝗔 ⚔");
-         repondre(" *Support ravi and chaky ! dark sasiya")
+         repondre(" *Support Feenix ! dark sasiya")
      }
  } else {
 
