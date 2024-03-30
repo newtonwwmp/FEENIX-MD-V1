@@ -17,13 +17,13 @@
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
 </p>
 
+##  PAIRING CODE SCAN
+
+<a href="https://dexter-pair-271d65472856.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
  <details close>
 <summary> DEPLOYMENT METHODS </summary>
   
-## QR SCAN PAIRING CODE
-
-### Wait Coming soon Pair code,sorry Guyz😩
 
 ## DEPLOY IN HEROKU
 
