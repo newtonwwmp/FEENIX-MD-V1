@@ -37,26 +37,26 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     /* menuMsg+=`
    ╔════ ▓▓ ࿇FEENIX-MD࿇ ▓▓ ════╗
   
-   ||     Préfixe : ${s.prefixe}
-   ||      Owner : ${s.OWNER_NAME}
-   ||      Commands : ${cm.length}
-   ||      Date : ${date}
-   ||      Hour : ${temps}
-   ||      Mém: ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
-   ||  Developer : FEENIX 
+   || ♠️    Préfixe : ${s.prefixe}
+   || ♠️    Owner : ${s.OWNER_NAME}
+   || ♠️     Commands : ${cm.length}
+   || ♠️     Date : ${date}
+   || ♠️     Hour : ${temps}
+   || ♠️     Mém: ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
+   ||  ♠️  Developer : FEENIX 
    ||
    ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
     menuMsg += `
 ╔════----*FEENIX-MD-----
-║    Préfixe : ${s.PREFIXE}
-║    Owner : ${s.OWNER_NAME}    
-║    Mode : ${mode}
-║    Commands :${cm.length}
-║    Date : ${date}
-║    Hour: ${temps}
-║    Mém : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-║    Platform : ${os.platform()}
-║    Déveloper : FEENIX
+║ ♠️   Préfixe : ${s.PREFIXE}
+║ ♠️   Owner : ${s.OWNER_NAME}    
+║ ♠️   Mode : ${mode}
+║ ♠️   Commands :${cm.length}
+║ ♠️   Date : ${date}
+║ ♠️   Hour: ${temps}
+║ ♠️   Mém : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+║ ♠️   Platform : ${os.platform()}
+║ ♠️    Déveloper : FEENIX
 ╚════--------------- \n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
@@ -114,9 +114,9 @@ var tt=[]
  async  function execute(dest,zok,commandeOptions?)
   {
 
-    var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg"
+    var link = "https://telegra.ph/file/8565b5e060bf6d88d4344.jpg"
     // var listCom =listeCommande()
-    let msg= "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n"
+    let msg= "  ╩═══ * feenix * ╩═══\n\n"
 
 
 //const listeCommande= async ()=> {
