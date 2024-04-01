@@ -19,7 +19,7 @@
 
 ##  PAIRING CODE SCAN
 
-<a href="https://feenix-md-v1.onrender.com"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="wait"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
  <details close>
 <summary> DEPLOYMENT METHODS </summary>
