@@ -6,7 +6,7 @@
 </p>
 
 
-<img src="https://telegra.ph/file/37d76d2eaa27a53eef207.jpg" width="540" height="280" />
+<img src="https://telegra.ph/file/c18e8f8efe8d00fbc1c5f.jpg" width="540" height="280" />
 </p>⚔ 𝐅𝐄𝐄𝐍𝐈𝐗 𝐌𝐃 ⚔
 
 ### Setup
