@@ -51,3 +51,5 @@ Enjoy the diverse features of the FEENIX-MD  to enhance your conversations and m
 ## Developer:
 - [**WhatsApp**](https://wa.me/94722807735)
 
+## `THANKS FORE` 
+<a href="https://github.com/Feenixmd0"><img src="https://github.com/Feenixmd0" width="250" height="250" alt="MrKasun"/></a>
