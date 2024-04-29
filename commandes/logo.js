@@ -91,10 +91,10 @@ zokou({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk,
 zokou({ nomCom: "didong", categorie: "Logo", reaction: "📱" }, async (dest, zk, commandeOptions) => {
     let { arg, repondre, prefixe, ms } = commandeOptions;
    try {
-     var titre = "\t *Logo by DEXTER-MD*";
+     var titre = "\t *Logo by FEENIX-MD*";
       var lien = "https://ephoto360.com/tao-anh-che-vui-tu-choi-cuoc-goi-voi-ten-cua-ban-930.html";
         if (!arg || arg == "") {
-           repondre(`*exemple :* ${prefixe}didong France King`)
+           repondre(`*exemple :* ${prefixe}didong FEENIX MD`)
             return ;
         }
      
@@ -568,7 +568,7 @@ zokou({nomCom:"steel",categorie:"Logo",reaction:"🌠"},async(dest,zk,commandeOp
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by DEXTER-MD*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by FEENIX-MD*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -580,14 +580,14 @@ zokou({nomCom:"sunlight",categorie:"Logo",reaction:"🌠"},async(dest,zk,command
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"sunlight Dexter-MD");return;
+        repondre(prefixe+"sunlight Feenix-MD");return;
       }
 
     var lien="https://en.ephoto360.com/sunlight-shadow-text-204.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by DEXTER-MD*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by FEENIX-MD*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -601,7 +601,7 @@ zokou({ nomCom: "scifi", categorie: "Logo", reaction: "💥" }, async (dest, zk,
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-3d-sci-fi-text-effect-online-1050.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo BY *DEXTER-MD*' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo BY *FEENIX-MD*' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -618,7 +618,7 @@ zokou({ nomCom: "magma", categorie: "Logo", reaction: "♨️" }, async (dest, z
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-a-magma-hot-text-effect-online-1030.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo BY *DEXTER-MD*' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo BY *FEENIX-MD*' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -635,7 +635,7 @@ zokou({ nomCom: "leaves", categorie: "Logo", reaction: "☘️" }, async (dest, 
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/natural-leaves-text-effect-931.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo BY *DEXTER-MD*' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo BY *FEENIX-MD*' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
