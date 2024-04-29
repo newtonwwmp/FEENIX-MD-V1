@@ -51,5 +51,18 @@ Enjoy the diverse features of the FEENIX-MD  to enhance your conversations and m
 ## Developer:
 - [**WhatsApp**](https://wa.me/94722807735)
 
-## `THANKS FORE` 
-<a href="https://github.com/Feenixmd0"><img src="https://github.com/Feenixmd0" width="250" height="250" alt="Feenixmd0"/></a>
+
+
+
+
+
+
+
+
+
+
+## `THANKS FORE`** 
+
+
+   <a href="https://github.com/Feenixmd0"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+
