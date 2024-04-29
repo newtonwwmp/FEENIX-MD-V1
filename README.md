@@ -64,5 +64,5 @@ Enjoy the diverse features of the FEENIX-MD  to enhance your conversations and m
 ## `THANKS FORE`** 
 
 
-   <a href="https://github.com/Feenixmd0"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+   <a href="https://github.com/Feenixmd0"><img src="https://telegra.ph/file/67962912c8fdc629e8f3d.jpg" width=80 height=80></a>   
 
