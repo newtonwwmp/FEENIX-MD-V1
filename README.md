@@ -29,6 +29,8 @@
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/feenixmd/FEENIX-MD-V1/)
 
+   ***Deploy on [`Koyeb`](https://feenixmd-web01.vercel.app/deploy?platform=koyeb)***
+
    </details>
 </P>
 
