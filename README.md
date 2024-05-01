@@ -52,7 +52,7 @@ The FEENIX-MD is released.
 Enjoy the diverse features of the FEENIX-MD  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
-- [**WhatsApp**](https://wa.me/94722807735)
+- [**WhatsApp**](https://wa.me/94722807735?text=HeyFeenix)
 
 
 
