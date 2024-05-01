@@ -25,7 +25,7 @@
 <summary> DEPLOYMENT METHODS </summary>
   
 
-## DEPLOY IN HEROKU
+## DEPLOY IN HEROKU @ KOYEB
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/feenixmd/FEENIX-MD-V1/)
 
