@@ -29,7 +29,8 @@
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/feenixmd/FEENIX-MD-V1/)
 
-   ***Deploy on [`Koyeb`](https://feenixmd-web01.vercel.app/deploy?platform=koyeb)***
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/feenixmd/FEENIX-MD-V1&branch=main&env[BOT_NUMBER]&env[SESSION_ID]&env[PASSWORD]&env[GITHUB_USERNAME]&env[GITHUB_AUTH_TOKEN]&name=FEENIX-MD-V1)
+<br>
 
    </details>
 </P>
