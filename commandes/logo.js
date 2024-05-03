@@ -24,7 +24,7 @@ zokou({ nomCom: "hacker",
 zokou({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest, zk, commandeOptions) => {
     let { arg, repondre, prefixe, ms } = commandeOptions;
     try {
-        const noArgMsg = `*_EXEMPLE *:  ${prefixe}dragonball FranceKing`;
+        const noArgMsg = `*_EXEMPLE *:  ${prefixe}dragonball FEENIX MD`;
         //  if(arg=='') {await zok.sendMessage(dest,{text:noArgMsg},{quoted:infoMessage}); return;}
         if (arg == '' || !arg) {
             repondre(noArgMsg);
