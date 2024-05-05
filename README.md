@@ -19,7 +19,7 @@
 
 ##  PAIRING CODE SCAN
 
-<a href="https://pair-js44-9c3a470e2d9b.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://dexter-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
  <details close>
 <summary> DEPLOYMENT METHODS </summary>
